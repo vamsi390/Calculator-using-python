@@ -3,13 +3,13 @@
 This is a basic command-line calculator built using Python.
 It allows users to perform simple arithmetic operations:
 
-Addition
+-Addition
 
-Subtraction
+-Subtraction
 
-Multiplication
+-Multiplication
 
-Division
+-Division
 
 📌 Features
 
