@@ -13,15 +13,15 @@ It allows users to perform simple arithmetic operations:
 
 📌 Features
 
-Interactive user input
+-Interactive user input
 
-Continuous calculations using a loop
+-Continuous calculations using a loop
 
-Handles invalid numeric inputs
+-Handles invalid numeric inputs
 
-Prevents division by zero
+-Prevents division by zero
 
-Displays results formatted to 2 decimal places
+-Displays results formatted to 2 decimal places
 
 🛠️ Technologies Used
 
